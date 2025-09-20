@@ -70,4 +70,4 @@ export default tseslint.config([
 ```
 =======
 # Genai-Exchange-Hackathon
->>>>>>> aeb6aaa4b7002d5b3225bf23f563612c42f28b7d
+
